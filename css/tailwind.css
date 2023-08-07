@@ -8,3 +8,12 @@
     @apply dark:bg-trueGray-900;
   }
 }
+
+.square-sub-agendas{
+  height: 10.23rem;
+  width: 10.23rem;
+}
+
+#herobody{
+  background-image: url("https://static.wixstatic.com/media/4426da_179f8d028a4d4e619b75cafb90995738~mv2.jpg");
+}

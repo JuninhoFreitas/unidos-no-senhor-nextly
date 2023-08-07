@@ -10,6 +10,9 @@ module.exports = {
       colors: {
         trueGray: colors.neutral,
       },
+      backgroundImage: {
+        'background-hero': "url('/img/background.jpg')",
+      }
     },
     fontFamily: {
       sans: ["Inter", ...defaultTheme.fontFamily.sans],

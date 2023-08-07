@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Igreja Bíblica | Novo Hamburgo | Unidos no Senhor  | Igreja Bíblica Unidos no Senhor</title>
         <meta
           name="description"
           content="Nextly is a free landing page template built with next.js & Tailwind CSS"
